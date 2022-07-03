@@ -3,11 +3,9 @@ I am noxter, web developer and law student. Below you can find all infos about m
 
 ### Tech Stack
 
-#### Known tech stack:
+#### Stack I use on a daily-to-weekly basis:
 
-##### Stack I use on a daily-to-weekly basis:
-
-<h3 align="left">Languages and Tools:</h3>
+<h6 align="left">Languages and Tools:</h6>
 <p align="left">
   <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="css3" width="40" height="40"/> </a>
@@ -23,8 +21,8 @@ I am noxter, web developer and law student. Below you can find all infos about m
       <a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-##### Stack I use on a monthly basis:
-<h3 align="left">Languages and Tools:</h3>
+#### Stack I use on a monthly basis:
+<h6 align="left">Languages and Tools:</h6>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
@@ -34,23 +32,24 @@ I am noxter, web developer and law student. Below you can find all infos about m
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-##### Stack that I know but I don't use
-<h3 align="left">Languages and Tools:</h3>
+#### Stack that I know but I don't use
+<h6 align="left">Languages and Tools:</h6>
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 #### Interested techology I am looking to learn:
 
+<h6 align="left">Languages and Tools:</h6>
 <p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://tauri.app/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/765f4ad168d78c2ebbf3ae4daedbe3c684eec617/c0fb8/img/index/tauri_1_0_light.svg" alt="tauri" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
- <a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="svelte" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://tauri.app/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/765f4ad168d78c2ebbf3ae4daedbe3c684eec617/c0fb8/img/index/tauri_1_0_light.svg" alt="tauri" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://nuxtjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://svelte.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
+   <a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="svelte" width="40" height="40"/> </a>
 </p>
 
 #### Technologies I am currently learning:
