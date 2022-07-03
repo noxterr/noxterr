@@ -22,7 +22,9 @@ I am noxter, web developer and law student. Below you can find all infos about m
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/> </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://discord.js.org/#/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 
