@@ -49,7 +49,7 @@ I am noxter, web developer and law student. Below you can find all infos about m
   <a href="https://nuxtjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://svelte.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
-   <a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="svelte" width="40" height="40"/> </a>
+       <a href="https://elixir-lang.org/getting-started/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/> </a>
 </p>
 
 #### Technologies I am currently learning:
@@ -57,7 +57,7 @@ I am noxter, web developer and law student. Below you can find all infos about m
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-    <a href="https://elixir-lang.org/getting-started/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/> </a>
+     <a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="svelte" width="40" height="40"/> </a>
 </p>
 
 
