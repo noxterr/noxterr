@@ -28,7 +28,8 @@ I am noxter, web developer, and law student. Below you can find all info about m
   </a>
   <a href="https://go.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="svelte" width="40" height="40"/> </a>
   <a href="https://cassandra.apache.org" target="_blank"> <img src="https://cassandra.apache.org/assets/img/logo-white.svg" alt="svelte" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/it" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="svelte" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="svelte" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="svelte" width="40" height="40"/> </a>
 </p>
 
 
