@@ -1,44 +1,27 @@
 ## Hi
-I am noxter, web developer, and law student. Below you can find all info about me.
+I am noxter, web developer, and law student. Below you can find all the info about me.
 
-### Tech Stack
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=noxterr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-#### Stack I use on a daily-to-weekly basis:
+![](https://github-readme-streak-stats.herokuapp.com/?user=noxterr&theme=dark&hide_border=false)
 
-<h6 align="left">Languages and Tools:</h6>
-<p align="left">
-  <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://discord.js.org/#/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://en.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
-
-
-#### Technologies I am currently learning:
-
-<p align="left">
-  <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="svelte" width="40" height="40"/> </a>
-  <a href="https://cassandra.apache.org" target="_blank"> <img src="https://cassandra.apache.org/assets/img/logo-white.svg" alt="svelte" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="svelte" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="svelte" width="40" height="40"/> </a>
-</p>
-
-
-
-I am really open to new technology. I love learning new programming languages and dive into a full new experience. 
-
-I am currently studying Law at the university. I am working on some small projects that range from websites to extensions to apps and so on.
-
-
-Thanks for having taken part in the tour, happy to show more of my creations very soon!
-
-![noxterr's github stats](https://github-readme-stats.vercel.app/api?username=noxterr&show_icons=true&theme=dracula&hide=stars,issues)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxterr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
